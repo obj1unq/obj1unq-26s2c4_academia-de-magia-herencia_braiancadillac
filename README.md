@@ -53,7 +53,7 @@ donde se pueda guardar:
 La academia tiene:
 - un baúl de 5 litros de volumen máximo, adentro tiene solamente la escoba gastada.
 - un gabinete magico donde está guardada la varita mágica
-- un armario convencional con la pelota de fútbol que puede contener hasta 2 elementos en total 
+
   (le queda espacio para un elemento más).
 
 *Nota: Tener en cuenta que éste es solo un escenario posible. Podría haber otro donde haya por ejemplo, 
@@ -179,7 +179,7 @@ Armar por fuera de la academia un baul mágico de volumen 12, con la lampara de 
    Esta acción solo la puede realizar si la academia tiene al menos 3 muebles.
 
    En este caso se debería remover solo la pelota. 
-
+   
    Pero en un escenario en el cual la academia tenga solo el armario y el baul no debería poder realizarse.
 
 
